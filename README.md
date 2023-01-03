@@ -17,6 +17,10 @@
 
 ## Introduction
 The Gender-Likability Implicit Association Test (IAT) is a reaction-time experiment to test for implicit gender bias in professional settings. This experiment won first place in my Big Data in the Psychological Sciences class's research competition for the topic I chose, the methodologies I implemented, and my discussion of the results’ implications and future steps. 
+
+The following is a summary of my research report. Please reference the [full report](https://github.com/anke-hao/Gender-Likability-IAT/blob/main/Documentation/Anke%20Hao_Gender-Likability%20IAT_%20Implicit%20Likability%20of%20Men%20and%20Women%20in%20Professional%20Settings_v2.pdf) for more details.
+
+If you would like to try out the experiment yourself, there is a [Version A](https://www.psytoolkit.org/c/3.3.2/survey?s=Bp6DN) and [Version B](https://www.psytoolkit.org/c/3.3.2/survey?s=ggkrp) (select only one to take).
 ## Motivation
 Multiple studies have revealed that women have been described in markedly different terms than men in professional settings. In a previous analysis of 81,000 performance reviews in professional work settings, the majority of the most commonly used descriptors for men were positive, while the majority of the descriptors for women were negative, with the second most frequently used descriptor for women being “inept.” (Smith, Rosenstein, & Nikolov, 2021). 
 
