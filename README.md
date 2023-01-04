@@ -43,7 +43,7 @@ The study was a Psytoolkit experiment that was coded and embedded into a survey 
 - Linking Positive characteristics with Male-associated nouns and Negative Characteristics with Female-associated nouns (PMNF). 
 Examples of the two conditions are shown below:
 <p align="center">
-  <img src="https://github.com/anke-hao/Gender-Likability-IAT/blob/main/Documentation/Condition%20Examples.png" style="height: 330px;"/>
+  <img src="https://github.com/anke-hao/Gender-Likability-IAT/blob/main/Documentation/Condition%20Examples.png" style="height: 600px;"/>
 </p>
 
 ### Experiment Design Considerations
