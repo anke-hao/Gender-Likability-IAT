@@ -93,4 +93,4 @@ As the difference in two means was not significant, the average reaction times o
 Future experiments with the Gender-Likability IAT, beyond collecting more data, may include new ways of segmenting data, surveying other populations, and enhancing the stimuli.
 
 ## Navigating the Directory
-- The full research report is located in the `Documentation` folder, and cleaned data from the experiment is located in the `Data` folder.
+- The [full research report](https://github.com/anke-hao/Gender-Likability-IAT/blob/main/Documentation/Anke%20Hao_Gender-Likability%20IAT_%20Implicit%20Likability%20of%20Men%20and%20Women%20in%20Professional%20Settings_v2.pdf) is located in the `Documentation` folder, and [cleaned data](https://github.com/anke-hao/Gender-Likability-IAT/blob/main/Data/Gender-Likability%20IAT%20Data.xlsx) from the experiment is located in the `Data` folder.
